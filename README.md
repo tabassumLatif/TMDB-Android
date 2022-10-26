@@ -13,8 +13,9 @@ Tmdb app with MVVM and clean code architecture
 * Uses [Glide](https://github.com/bumptech/glide) for image loading.
 
 ## Features
-* Discover Top Rated and Popular movies on TMDb.
+* Discover Top Rated and Popular movies on TMDB.
 * Search for movies
+* User can favorite movies 
 * View banner image, votes release date, revenue and movie details inside the app.
 * Works offline by caching data into a database.
 
