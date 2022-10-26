@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="search">Search</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="revenue">Revenue: </string>
+    <string name="favorite">Favorite</string>
+</resources>
